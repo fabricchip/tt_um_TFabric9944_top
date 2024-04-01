@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        ""      # TFabric
-  author:       ""      # Aravind Prasad
+  author:       ""      # Team Fabric
   discord:      ""      # fabrichip, for communication and automatically assigning you a Tapeout role (optional)
   description:  ""      # Tiny Modular Risc-v Core for ai acceleration
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
